@@ -1,2 +1,3 @@
-# ecoacao
-exemplo de como trabalhar com issues e wiki
+# Example  de README.md
+
+Aqui deve constar uma apresentação do que o repositório armazenará. 
